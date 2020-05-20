@@ -1,0 +1,3 @@
+git+https://github.com/neilpquinn/wmfdata.git@release
+pandas
+jupyter
